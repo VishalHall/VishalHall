@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning React and improving my Python skills
 
 - 🎓 I'm currently studying BSc Computer Science at King's College London
 
